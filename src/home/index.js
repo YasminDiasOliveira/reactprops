@@ -10,27 +10,27 @@ export default function Home(){
         const r = [
             {
                 id: 10001, 
-                imagem: "https://http2.mlstatic.com/D_NQ_NP_755842-MLB47599396706_092021-O.webp",
-                titulo: "PC Gamer",
+                imagem: "https://image.freepik.com/fotos-gratis/cachorrinho-fofo-em-casa_144627-10935.jpg",
+                titulo: "Pulguinha",
                 preco: "R$ 12.584,00",
-                descricao: "Esse produto é lindo!",
-                especificacoes: "Esse produto é incrível!"
+                descricao: "Cachorrinha serelepe",
+                especificacoes: "Essa cachorrinha é incrível!"
             },
             {
                 id: 10002, 
-                imagem: "https://http2.mlstatic.com/D_NQ_NP_755842-MLB47599396706_092021-O.webp",
-                titulo: "PC Gamer",
+                imagem: "https://fotos.amomeupet.org/uploads/fotos/1604585885_5fa4099ddb738_hd.jpeg",
+                titulo: "Cachorrinho emo",
                 preco: "R$ 12.584,00",
-                descricao: "Esse produto é lindo!",
-                especificacoes: "Esse produto é incrível!"
+                descricao: "Cachorrinho trevoso",
+                especificacoes: "Cachorrinho gótico"
             },
             {
                 id: 10003, 
-                imagem: "https://http2.mlstatic.com/D_NQ_NP_755842-MLB47599396706_092021-O.webp",
-                titulo: "PC Gamer",
+                imagem: "https://img3.beautynailhairsalons.com/181/781/716261321817813.jpg",
+                titulo: "Cachorrinha junina",
                 preco: "R$ 12.584,00",
-                descricao: "Esse produto é lindo!",
-                especificacoes: "Esse produto é incrível!"
+                descricao: "Essa cachorrinha pula fogueira",
+                especificacoes: "Essa cachorrinha come maçã do amor"
             }
         ]   
         setProdutos(r);
